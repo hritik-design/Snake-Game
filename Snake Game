@@ -1,0 +1,18 @@
+Snake Evolution – Modern Snake Game in Python 🎮
+
+Snake Evolution is a modern, GUI-based version of the classic Snake game — built entirely in Python with Pygame.
+It features smooth animations, an interactive main menu, glowing visuals, and dynamic gameplay that speeds up as your snake grows!
+
+🚀 Features
+
+🎨 Stylish Front Menu with animated background and buttons
+
+🧠 Smart Gameplay – snake wraps around the screen edges
+
+⚡ Speed Increases as you eat more food
+
+🏆 High Score System (saved locally)
+
+⏸️ Pause / Resume / Restart options
+
+📱 Mobile-like interface with smooth UI transitions
